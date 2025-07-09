@@ -129,11 +129,13 @@ CoreIT bridges the compute gap by enabling users to:
 
 
 Dev.env-ResourceX/
+
 ├── backend/      # Backend code and services (Node.js)
 
 ├── blender/      # Blender-related scripts or integrations
 
 ├── frontend/     # Frontend code (JavaScript/HTML)
+
 ├── models/       # Data models or machine learning models
 
 
