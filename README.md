@@ -1,5 +1,5 @@
-# Project Time line
-
+# Project Timeline
+```
 ##### HackOrbit-Day-1 08-july-2025
 - cp-1 -> 1st commit done at 1 PM initialise the project structure and working on frontend
 - cp-2 -> 2nd commit done at 4 PM start the frontend working and rendring the components and pages on the browser
@@ -10,6 +10,7 @@
 - cp-1 -> 1st commit done at 1 PM initialise the project structure and working on backend and ML models
 - cp-2 -> 2nd commit 4 pm test the backend API`s and implement the blender model
 - cp-3 -> 3rd commit at 6 PM finalise the project
+```
 
 
 <h1 align="center">🔗 CoreIT - Compute Without Limits</h1>
