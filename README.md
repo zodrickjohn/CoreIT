@@ -153,8 +153,10 @@ cd Dev.env-ResourceX
 Navigate to the backend/ directory and install dependencies.
 
 bash
+```
 cd backend
 npm install
+```
 
 
 ### Frontend Setup:
@@ -162,8 +164,10 @@ npm install
 Navigate to the frontend/ directory and install dependencies.
 
 bash
+```
 cd ../frontend
 npm install
+```
 
 
 ### Blender Setup:
@@ -186,8 +190,10 @@ If using Blender scripts, ensure Blender is installed and properly configured.
 Run the backend server from the backend/ directory:
 
 bash
+```
 cd backend
 npm run dev
+```
 
 
 ### Frontend:
@@ -195,8 +201,10 @@ npm run dev
 Serve or build the frontend from the frontend/ directory:
 
 bash
+```
 cd frontend
 npm run dev
+```
 
 
 ### Models:
@@ -204,6 +212,7 @@ npm run dev
 Use or train models as described in the models/ directory's documentation.
 
 bash
+```
 cd models
 pip install -r requirements.txt
 uvicorn chat:app --reload
@@ -211,6 +220,7 @@ uvicorn terminal:app --reload
 python main.py
 cd listing
 python app.py
+```
 
 
 ---
