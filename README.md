@@ -140,9 +140,9 @@ We’re working on open-sourcing the CoreIT repo. Stay tuned for:
 
 | Name           | Role                      |
 |----------------|---------------------------|
-| 🧑‍💻 Zodrick John | Team Lead                  |
-| 🧑‍💻 Mohd Aanas    | Backend & Blockchain Dev   |
-| 🧑‍💻 Farahim       | Frontend & AI Integration |
+| 🧑‍💻 Zodrick John | Team Lead & Blockchain Dev |
+| 🧑‍💻 Mohd Aanas    | Backend Dev   |
+| 🧑‍💻 Farahim       | Frontend Dev |
 
 ---
 
