@@ -55,7 +55,7 @@ CoreIT bridges the compute gap by enabling users to:
 ## 🧠 System Architecture
 
 <p align="center">
-  <img src="assets/architecture.png" width="80%" alt="Architecture Overview">
+  <img src="assets/ChatGPT Image May 29, 2025, 04_42_22 PM.png" width="80%" alt="Architecture Overview">
 </p>
 
 ### 🔐 Client Flow
@@ -78,7 +78,7 @@ CoreIT bridges the compute gap by enabling users to:
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="assets/techstack.png" width="80%" alt="Tech Stack">
+  <img src="assets/WhatsApp Image 2025-05-29 at 17.47.33.jpeg" width="80%" alt="Tech Stack">
 </p>
 
 ### 🧑‍💻 Frontend
