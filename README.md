@@ -125,14 +125,93 @@ CoreIT bridges the compute gap by enabling users to:
 
 ---
 
-## 🛠️ How to Run (Coming Soon)
+## 📁 Project Structure
 
-We’re working on open-sourcing the CoreIT repo. Stay tuned for:
 
-- 📦 Local setup guide
-- 🖥️ Lender job execution
-- 🔁 Docker push/pull flows
-- 🔐 Blockchain integration steps
+Dev.env-ResourceX/
+├── backend/      # Backend code and services (Node.js)
+├── blender/      # Blender-related scripts or integrations
+├── frontend/     # Frontend code (JavaScript/HTML)
+├── models/       # Data models or machine learning models
+
+
+---
+
+## ⚙ Installation
+
+### Clone the repository:
+
+bash
+ ```
+git clone https://github.com/priyadarshi7/Dev.env-ResourceX.git
+cd Dev.env-ResourceX
+```
+
+
+### Backend Setup (Node.js):
+
+Navigate to the backend/ directory and install dependencies.
+
+bash
+cd backend
+npm install
+
+
+### Frontend Setup:
+
+Navigate to the frontend/ directory and install dependencies.
+
+bash
+cd ../frontend
+npm install
+
+
+### Blender Setup:
+
+If using Blender scripts, ensure Blender is installed and properly configured.
+
+---
+## 📦 Requirements
+
+* Node.js & npm
+* Python 3.8+ (for models)
+* Blender (optional, for Blender scripts)
+* Other dependencies as specified in package.json or requirements.txt
+---
+
+## 🧩 Usage
+
+### Backend:
+
+Run the backend server from the backend/ directory:
+
+bash
+cd backend
+npm run dev
+
+
+### Frontend:
+
+Serve or build the frontend from the frontend/ directory:
+
+bash
+cd frontend
+npm run dev
+
+
+### Models:
+
+Use or train models as described in the models/ directory's documentation.
+
+bash
+cd models
+pip install -r requirements.txt
+uvicorn chat:app --reload
+uvicorn terminal:app --reload
+python main.py
+cd listing
+python app.py
+
 
 ---
 
@@ -153,9 +232,3 @@ We’re working on open-sourcing the CoreIT repo. Stay tuned for:
 ---
 
 ## 📜 License
-
-Licensed under the [MIT License](LICENSE).
-
----
-
-> 💬 *"Compute is the new oil — let's make it accessible to all."*
