@@ -4,6 +4,25 @@
 
 ---
 
+## 🚀 Problem
+
+Access to high-performance computing is **expensive**, **centralized**, and **inaccessible** for many — especially students, indie developers, and under-resourced regions. 
+
+Over 60% of personal devices stay **idle** most of the time, wasting potential compute resources.
+
+---
+
+## 💡 Solution: CoreIT
+
+CoreIT bridges the compute gap by enabling users to:
+
+- 📤 Upload jobs (AI, graphics, or compute-heavy tasks)
+- 🧠 Securely execute them on idle machines (lenders)
+- 🔐 Ensure privacy with **Zero Knowledge Proofs**
+- 💸 Reward providers using **Solana Blockchain**
+
+---
+
 ## 📘 Real-World Scenarios: Why CoreIT is Needed
 
 ### 👩‍🎓 Person X – The Struggling Student
@@ -26,25 +45,6 @@
 
 ✅ With **CoreIT**, Arnav authenticates as a lender and accepts compute jobs inside a **sandboxed, encrypted container**.  
 He earns credits or micro-payments securely — **without ever seeing the client’s code**, thanks to **Zero Knowledge Proofs**.
-
----
-
-### 🚀 Problem
-
-Access to high-performance computing is **expensive**, **centralized**, and **inaccessible** for many — especially students, indie developers, and under-resourced regions. 
-
-Over 60% of personal devices stay **idle** most of the time, wasting potential compute resources.
-
----
-
-## 💡 Solution: CoreIT
-
-CoreIT bridges the compute gap by enabling users to:
-
-- 📤 Upload jobs (AI, graphics, or compute-heavy tasks)
-- 🧠 Securely execute them on idle machines (lenders)
-- 🔐 Ensure privacy with **Zero Knowledge Proofs**
-- 💸 Reward providers using **Solana Blockchain**
 
 ---
 
