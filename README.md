@@ -59,6 +59,9 @@ CoreIT bridges the compute gap by enabling users to:
 - Leverages a high-end lender's GPU
 - Gets results fast, at low cost — **without exposing her code**
 
+<p align="center">
+  <img src="aisha.png" width="80%" alt="Logo">
+</p>
 ---
 
 ### 👨‍💻 Arnav – The Idle GPU Owner
@@ -71,12 +74,15 @@ CoreIT bridges the compute gap by enabling users to:
 - Executes tasks in an **encrypted sandbox**
 - Earns micro-payments securely without seeing any client code
 
+<p align="center">
+  <img src="arnav.png" width="80%" alt="Logo">
+</p>
 ---
 
 ## 🧠 System Architecture
 
 <p align="center">
-  <img src="assets/ChatGPT Image May 29, 2025, 04_42_22 PM.png" width="80%" alt="Architecture Overview">
+  <img src="architecture.png" width="80%" alt="Architecture Overview">
 </p>
 
 ### 🔐 Client Flow
@@ -99,7 +105,7 @@ CoreIT bridges the compute gap by enabling users to:
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="assets/WhatsApp Image 2025-05-29 at 17.47.33.jpeg" width="80%" alt="Tech Stack">
+  <img src="techstack.jpeg" width="80%" alt="Tech Stack">
 </p>
 
 ### 🧑‍💻 Frontend
